@@ -68,7 +68,7 @@ The dashboard section offers an array of visualizations that empower users to ex
 
 ## Sales Forecasting
 
-The sales forecasting page focuses on predicting sales for the subsequent 10 days. Leveraging historical sales data and advanced forecasting techniques of Power BI.
+The sales forecasting page focuses on predicting sales for the subsequent 15 days. Leveraging historical sales data and advanced forecasting techniques of Power BI.
 
 ![image](https://github.com/amit9690/Superstore-Sales-Analysis-and-Forecasting/assets/129444885/22d53ce3-bab4-4574-93be-502aa290c774)
 
